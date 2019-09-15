@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">LaunchMode</string>
+    <string name="app_name">LaunchMode Application</string>
     <string name="main_activity_textView_name">This is main Activity</string>
     <string name="go_to_B_button_name">Go to Activity B</string>
 
