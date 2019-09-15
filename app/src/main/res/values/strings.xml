@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LaunchMode</string>
+    <string name="main_activity_textView_name">This is main Activity</string>
+    <string name="go_to_B_button_name">Go to Activity B</string>
+
+    <string name="activity_b_textView_name">This is Activity B</string>
+    <string name="go_to_C_button_name">Go To Activity C</string>
+
+    <string name="activity_c_textView_name">This is Activity C</string>
+    <!--<string name="go_to_B_button_name">Go To Activity B</string>-->
+</resources>
